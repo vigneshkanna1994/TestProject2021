@@ -15,7 +15,7 @@ import io.cucumber.junit.CucumberOptions;
 //tags = "not @prod"
 		tags = "@All",
 		monochrome = true,
-		dryRun = true
+		dryRun = false
 		)
 
 public class TestRunner {
